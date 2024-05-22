@@ -1,3 +1,4 @@
 username : kim0705
 email : dbwls138@g.kmou.ac.kr
 name : yujin kim
+age : 25
